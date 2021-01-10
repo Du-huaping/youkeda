@@ -6,3 +6,4 @@ git remote -v（空白的话，就是没有绑定）
 git remote add origin 仓库地址  
 移除绑定的命令：  
 git remote remove origin  
+git push
